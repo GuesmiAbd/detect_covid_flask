@@ -1,0 +1,6 @@
+keras
+tensorflow
+numpy
+PIL
+flask
+flask_cors
