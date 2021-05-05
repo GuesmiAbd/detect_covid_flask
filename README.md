@@ -9,18 +9,28 @@ Utilizing Deep Learning to detect COVID-19 from x-ray images
 - [COVID-19 normal-covid Images]()
 
 # Usage 1 :Train and Test
-## train and evaluate the model:** 
+## train and evaluate the model:
 Open the notebook COVID19_classifier_training_and_evaluation.ipynb and run all scripts.
-## Results:**
+## Results:
+
 **Classification Report:**
+
 ![Classification Report](https://github.com/GuesmiAbd/detect_covid_flask/blob/main/train_val/helper_images/classification_report.png)
+
 **Confusion Matrix Normal Case:**
+
 ![Confusion Matrix Normal](https://github.com/GuesmiAbd/detect_covid_flask/blob/main/train_val/helper_images/Confusion_matrix_nor.png.png)
+
 **Confusion Matrix Covid Case:**
+
 ![Confusion Matrix Covid](https://github.com/GuesmiAbd/detect_covid_flask/blob/main/train_val/helper_images/Confusion_matrix_nonnor.png)
+
 **Confusion Roc Curve:**
+
 ![Roc Curve](https://github.com/GuesmiAbd/detect_covid_flask/blob/main/train_val/helper_images/roc_curve.png)
+
 **Outputs:**
+
 ![Sample Output](https://github.com/GuesmiAbd/detect_covid_flask/blob/main/train_val/helper_images/sample_output.png)
 ![Sample Output1](https://github.com/GuesmiAbd/detect_covid_flask/blob/main/train_val/helper_images/sample_output2.png)
 ![Sample Output2](https://github.com/GuesmiAbd/detect_covid_flask/blob/main/train_val/helper_images/sample_output_3.png)
